@@ -78,4 +78,7 @@ What will `print(10 * 2)` output?
 
 🎉 **Next Step:** Open your code editor and try typing these lines yourself!
 
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
 
