@@ -1,38 +1,81 @@
+# 🐍  Python output Basics for Beginners
+
+Welcome to your second Python guide! Python is a powerful language that reads almost like English. Let's learn how to print text and numbers.
+
 ---
 
-## 🖨️ Printing Output (Text & Numbers)
+## 🚀 1. Printing Text (Strings)
 
-The `print()` function is your primary tool to output information to the screen. As a beginner, you will mostly deal with text and numerical data.
+To display words in Python, you wrap your text inside quotation marks `""` or `''`. 
 
-### 1. Printing Text (Strings)
-* Text must always be wrapped in **single quotes (`' '`)** or **double quotes (`" "`)**.
-* Forgetting quotes around text will cause a `NameError`.
-
+### The Code
 ```python
-# Printing text messages
 print("Hello, World!")
-print('Python is fun to learn.')
+print('I am learning Python!')
 ```
 
-### 2. Printing Numbers
-* Numbers do **not** require quotes of any kind.
-* Writing a number inside quotes turns it into a text string, which prevents mathematical operations.
+<details>
+<summary>💡 <b>Click here to see what happens (Output)</b></summary>
 
-```python
-# Printing integers and decimals
-print(42)
-print(3.14159)
+```text
+Hello, World!
+I am learning Python!
 ```
+</details>
 
-### 3. Combining Text and Numbers
-* Separate different data types using a **comma (`,`)**.
-* Python automatically inserts a single space wherever a comma is used.
+### 🛠️ Quick Quiz
+What will `print("5 + 5")` output?
+- [ ] `10`
+- [ ] `5 + 5`
 
-```python
-# Merging variables, strings, and numbers
-score = 95
-print("Your final score is:", score)
-print("The item costs \$", 19.99, " plus tax.")
-```
+<details>
+<summary>🔑 <b>Click to reveal the answer</b></summary>
+
+> **Answer:** `5 + 5`. Because it is inside quotation marks, Python treats it as text, not math!
+</details>
 
 ---
+
+## 🔢 2. Printing Numbers and Math
+
+Unlike text, numbers do **not** need quotation marks. If you omit quotes, Python can perform actual calculations.
+
+### The Code
+```python
+# Printing a normal number
+print(2026)
+
+# Printing the result of a math problem
+print(5 + 5)
+```
+
+<details>
+<summary>💡 <b>Click here to see what happens (Output)</b></summary>
+
+```text
+2026
+10
+```
+</details>
+
+### 🛠️ Quick Quiz
+What will `print(10 * 2)` output?
+- [ ] `10 * 2`
+- [ ] `20`
+
+<details>
+<summary>🔑 <b>Click to reveal the answer</b></summary>
+
+> **Answer:** `20`. The asterisk `*` is the symbol for multiplication in Python.
+</details>
+
+---
+
+## 🎯 Summary Checklist
+- [x] Learned how to print words using `" "`
+- [x] Learned how to print numbers without quotes
+- [x] Learned that Python can do math inside `print()`
+
+🎉 **Next Step:** Open your code editor and try typing these lines yourself!
+
+
