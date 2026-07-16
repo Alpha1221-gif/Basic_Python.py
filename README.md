@@ -24,11 +24,10 @@ The files are organized progressively to take you from total beginner to writing
 
 ```text
 ├── README.md
-├── 01_python_intro.py    # learn about the basic python 
-├── 02_python_syntax.py           # Practice how to write the correct syntax
-├── 03_python_output.py        # Explore how print the output
-├── 04_python_comments.py              # Learn how comments work and used in python
-└── 05_python_variables.py         # Know about how to store a value in python
+├── 01_python_syntax.py    # Practice how to write the correct syntax 
+├── 02_python_output.py          # Explore how print the output
+├── 03_python_comments.py      # Learn how comments work and used in python
+└── 05_python_variables.py         # Know how to store any text or integer value
 ```
 
 ---
@@ -79,6 +78,27 @@ print(message)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! If you have a basic concept you want to add, feel free to fork the repository, make changes, and open a pull request.
+
+# Python Overview
+
+A quick guide to the popular programming language created by Guido van Rossum and released in 1991.
+
+### 🌟 Features
+* **Simple & Concise:** Syntax resembles the English language, allowing developers to write programs with fewer lines.
+* **Cross-Platform:** Works seamlessly on Windows, Mac, Linux, and Raspberry Pi.
+* **Versatile:** Supports procedural, object-oriented, and functional programming styles.
+* **Rapid Prototyping:** Runs on an interpreter system, meaning code can be executed instantly.
+
+### 🛠️ What it is used for
+* **Web Development:** Server-side application creation.
+* **Software Development:** Building tools and workflows.
+* **Data & Math:** Handling big data and complex mathematical computations.
+* **System Scripting:** Automating tasks and modifying files.
+
+### 📝 Good to Know
+* **Version:** This repository focuses on **Python 3**.
+* **Editors:** While simple text editors work, using an IDE like Thonny, PyCharm, or Eclipse is highly recommended for managing larger projects.
+
 
 ## 📝 License
 
