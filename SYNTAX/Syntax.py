@@ -7,7 +7,7 @@ print("hello world")
 if(34>7):
     print("thirty four is greater than seven") 
    #OUTPUT = thirty four is greater than seven
-'''IN this you give the space of about four or one (without this the error is come)'''  
+'''IN this you give the space of about four or one (without this, an IndentationError will occur.)'''  
 
 # ----CODE3----
 if 34 > 7:
@@ -16,8 +16,8 @@ if 34 > 7:
         print("thirty four is greater than seven")
 #output = thirty four is greater than seven
          #thirty four is greater than seven
-'''In this if you write directly second print statement without indentation you face error.
-The another way to write a another print statement is to write with left corner without indentation'''
+'''In this if you write directly second print statement "without indentation, you will get an error."
+"Another way to write a separate statement..." is to write with left corner without indentation'''
 
 if 34 > 7:
  print("thirty four is greater than seven") 
@@ -29,5 +29,5 @@ print("Hello Brother!")
 print("It is a cat.")
 print("I an learning a python!")
 
-'''The another way to write this code in a same line are (but we use a (;) <semicolon>in this)'''
+'''"Another way to write these codes on the same line is..." (but we use a (;) <semicolon>in this)'''
 print("Hello Brother!");print("It is a cat.");print("I an learning a python!")
