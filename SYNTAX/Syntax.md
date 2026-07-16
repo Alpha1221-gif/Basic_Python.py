@@ -91,3 +91,7 @@ def greet_user(name):              # Added missing colon (:)
 ### Key Takeaways
 1. Always add a colon (`:`) after defining functions, loops, or conditionals.
 2. Keep all lines inside the same code block at the exact same indentation level.
+
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
