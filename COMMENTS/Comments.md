@@ -71,4 +71,6 @@ Write comments that explain the reasoning behind the numbers or logic.
 max_login_attempts = 5  # Stop users from guessing passwords after 5 tries
 ```
 
+## 📝 License
 
+This project is open-source and available under the [MIT License](LICENSE).
