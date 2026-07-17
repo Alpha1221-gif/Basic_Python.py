@@ -1,0 +1,46 @@
+# ----CODE1----
+print("It's alright") #output = It's alright
+print("He is called 'tonny'") #output = He is called 'tonny'
+print('He is called "tonny"') #output = He is called "tonny"
+
+# ----CODE2----
+a = "Hey"
+print(a) #output = Hey
+
+# ----CODE3----
+a = """The Legend: According to the tale,
+ a beautiful woman named Maria drowned her own children in a
+   fit of rage to win the love of a man,
+ only to drown herself in despair when he rejected her."""
+print(a) 
+
+# ----CODE4----
+b = '''The Legend: According to the tale,
+ a beautiful woman named Maria drowned her own children in a
+   fit of rage to win the love of a man,
+ only to drown herself in despair when he rejected her.'''
+print(b) #output = same as above
+
+# ----CODE5----
+a = "Hello, World!"
+print(len(a)) #output = 13
+
+# ----CODE6----
+txt = "The best things in life are free!"
+print("free" in txt) #output = True
+
+# ----CODE7----
+txt = "The best things in life are free!"
+if "free" in txt:
+  print("Yes, 'free' is present.") #output = Yes, 'free' is present.
+
+# ----CODE8----
+txt = "The best things in life are free!"
+if "tree" in txt:
+  print(f"Yes, it is present.")
+else:
+ print(f"No, it is not present.")  #output = No, it is not present.
+
+
+
+ 
