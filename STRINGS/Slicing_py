@@ -1,0 +1,7 @@
+# ----CODE1----
+a = "This is the moon"
+print(a[2:5]) #output = is 
+
+# ----CODE2----
+b = "Hello, World!"
+print(b[2:]) #output = llo, World!
