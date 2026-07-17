@@ -63,4 +63,6 @@ You can use the built-in `type()` function to ask Python what data type a variab
 # Copy and run this in your editor
 my_number = 100
 print(type(my_number))  # Outputs: <class 'int'>
-```
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE)```
