@@ -73,3 +73,8 @@ if is_raining:
 else:
     print("Enjoy the sunshine! ☀️")
 ```
+
+
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
