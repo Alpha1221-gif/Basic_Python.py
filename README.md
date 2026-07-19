@@ -24,10 +24,15 @@ The files are organized progressively to take you from total beginner to writing
 
 ```text
 ├── README.md
-├── 01_python_syntax.py    # Practice how to write the correct syntax 
-├── 02_python_output.py          # Explore how print the output
-├── 03_python_comments.py      # Learn how comments work and used in python
-└── 05_python_variables.py         # Know how to store any text or integer value
+├── 01_ SYNTAX    # Practice how to write the correct syntax 
+├── 02_ OUTPUT          # Explore how print the output
+├── 03_ COMMENTS      # Learn how comments work and used in python
+├── 04_ VARIABLES         # Know how to store any text or integer value
+├── 05_ DATA_TYPES     # Know how many times of Data types in python
+├── 06_ STRINGS           # Explore the types of strings
+├── 07_  BOOLEAN          #Get idea about TRUE and FALSE condition
+└── 08_  OPERATORS       #Learn how to perform maths functions
+
 ```
 
 ---
