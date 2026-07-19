@@ -183,6 +183,11 @@ word = "AI"
 for index in range(len(word)):
     print(f"Index {index} has letter: {word[index]}")
 ```
+
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
 **Output:**
 ```text
 Index 0 has letter: A
