@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ----CODE1----(Concatenate)
 a = "Hello"
 b = "World"
@@ -20,6 +20,3 @@ print(txt) #output = My name is Alice, I am 46 years old.
 price = 69
 txt = f"The price is {price:.2f} dollars without Discount."
 print(txt) #output = The price is 69.00 dollars without Discount.
-=======
-
->>>>>>> e2e7c2a6f1cbeb613bcfd343ba733245195f29b8
