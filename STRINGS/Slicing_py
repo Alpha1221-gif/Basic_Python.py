@@ -5,3 +5,7 @@ print(a[2:5]) #output = is
 # ----CODE2----
 b = "Hello, World!"
 print(b[2:]) #output = llo, World!
+
+# ----CODE2----
+c = "Hello, World!"
+print(c[-8:-1]) #output = , World

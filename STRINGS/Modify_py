@@ -1,0 +1,21 @@
+# ----CODE1----
+a = "I am learning a python"
+print(a.upper()) #output = I AM LEARNING A PYTHON
+
+# ----CODE2----
+b = "I am learning a python"
+print(b.lower()) #output = i am learning a python
+
+# ----CODE3----(The strip() method removes any whitespace from the beginning or the end:)
+c = " I am learning a python "
+print(c.strip()) #output = I am learning a python
+
+# ----CODE4----
+d = " I am learning a python "
+print(d.replace("python","C++")) #output =  I am learning a C++ 
+
+# ----CODE5----
+e = "Hello, World!"
+print(e.split(",")) #output = ['Hello', ' World!']
+
+
