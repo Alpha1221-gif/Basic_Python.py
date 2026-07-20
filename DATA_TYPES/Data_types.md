@@ -65,8 +65,10 @@ my_number = 100
 print(type(my_number))  # Outputs: <class 'int'>
 
 '''
+```
 ---
+🚀
+**Happy Coding!** Practice these concepts by writing your own Data Types.
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
