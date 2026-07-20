@@ -31,7 +31,13 @@ The files are organized progressively to take you from total beginner to writing
 ├── 05_ DATA_TYPES     # Know how many times of Data types in python
 ├── 06_ STRINGS           # Explore the types of strings
 ├── 07_  BOOLEAN          #Get idea about TRUE and FALSE condition
-└── 08_  OPERATORS       #Learn how to perform maths functions
+├── 08_  OPERATORS       #Learn how to perform maths functions
+├── 09_ LIST           #Type of data type in python 
+├── 10_
+├── 11_  
+├── 12_  
+├── 13_  
+└── 14_ 
 
 ```
 
