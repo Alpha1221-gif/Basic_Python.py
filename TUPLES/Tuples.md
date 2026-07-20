@@ -109,3 +109,6 @@ print(y) # Output: 3
 ---
 
 🚀 **Happy Coding!** Practice these concepts by writing your own tuple variables.
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
