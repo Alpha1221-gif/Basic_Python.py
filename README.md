@@ -24,17 +24,17 @@ The files are organized progressively to take you from total beginner to writing
 
 ```text
 ├── README.md
-├── 01_ SYNTAX    # Practice how to write the correct syntax 
-├── 02_ OUTPUT          # Explore how print the output
-├── 03_ COMMENTS      # Learn how comments work and used in python
-├── 04_ VARIABLES         # Know how to store any text or integer value
-├── 05_ DATA_TYPES     # Know how many times of Data types in python
-├── 06_ STRINGS           # Explore the types of strings
-├── 07_  BOOLEAN          #Get idea about TRUE and FALSE condition
-├── 08_  OPERATORS       #Learn how to perform maths functions
-├── 09_ LIST           #Type of data type in python 
-├── 10_ TUPLES             #Another Type of data type in python
-├── 11_  
+├── 01_ SYNTAX    # Master the foundational rules and structure of writing Python code.
+├── 02_ OUTPUT        # Learn how to display data and format text on the screen.
+├── 03_ COMMENTS         #  Document your code effectively using single-line and multi-line notes.
+├── 04_ VARIABLES           #  Understand how to create, assign, and manage data containers in memory. 
+├── 05_ DATA_TYPES             #  Explore the fundamental classifications of data used throughout Python.
+├── 06_ STRINGS                    # Manipulate, format, and slice text data efficiently.
+├── 07_  BOOLEAN                      # Work with logical True and False values to evaluate conditions.
+├── 08_  OPERATORS                       # Perform arithmetic, assignment, and comparison operations on data.
+├── 09_ LIST                          #  Store ordered, mutable collections of items in a single variable.
+├── 10_ TUPLES                     #Create ordered, immutable sequences to protect data from changes.
+├── 11_  SETS                   # Manage unordered collections of unique items with no duplicate values.
 ├── 12_  
 ├── 13_  
 └── 14_ 
