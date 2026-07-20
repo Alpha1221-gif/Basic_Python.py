@@ -165,6 +165,8 @@ print(result)        # Output: 20
 forced_result = (10 + 5) * 2  # Parentheses happen first
 print(forced_result)          # Output: 30
 ```
+🚀
+**Happy Coding!** Practice these concepts by writing your own Python code.
 
 ## 📝 License
 
