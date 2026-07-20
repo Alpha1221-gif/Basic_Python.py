@@ -73,7 +73,8 @@ if is_raining:
 else:
     print("Enjoy the sunshine! ☀️")
 ```
-
+🚀
+**Happy Coding!** Practice these concepts by writing your own Boolean code.
 
 ## 📝 License
 
