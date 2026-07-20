@@ -71,6 +71,8 @@ When making variable names with multiple words, separate the words with an under
 # Good readability
 player_high_score = 5000 
 ```
+🚀
+**Happy Coding!** Practice these concepts by writing your own  variables.
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
