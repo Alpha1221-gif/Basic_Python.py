@@ -33,7 +33,7 @@ The files are organized progressively to take you from total beginner to writing
 ├── 07_  BOOLEAN          #Get idea about TRUE and FALSE condition
 ├── 08_  OPERATORS       #Learn how to perform maths functions
 ├── 09_ LIST           #Type of data type in python 
-├── 10_
+├── 10_ TUPLES             #Another Type of data type in python
 ├── 11_  
 ├── 12_  
 ├── 13_  
@@ -109,7 +109,9 @@ A quick guide to the popular programming language created by Guido van Rossum an
 ### 📝 Good to Know
 * **Version:** This repository focuses on **Python 3**.
 * **Editors:** While simple text editors work, using an IDE like Thonny, PyCharm, or Eclipse is highly recommended for managing larger projects.
-
+  
+🚀
+**Happy Coding!** Practice these concepts by writing your own Pygthon code.
 
 ## 📝 License
 
