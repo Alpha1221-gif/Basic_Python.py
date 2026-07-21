@@ -35,8 +35,8 @@ The files are organized progressively to take you from total beginner to writing
 ├── 09_ LIST                          #  Store ordered, mutable collections of items in a single variable.
 ├── 10_ TUPLES                     #Create ordered, immutable sequences to protect data from changes.
 ├── 11_  SETS                   # Manage unordered collections of unique items with no duplicate values.
-├── 12_  
-├── 13_  
+├── 12_  DICTIONARY         #Manage ordered collections of unique key-value pairs.
+├── 13_  CONDITIONAL     # Control program flow by executing specific code blocks based on boolean conditions.
 └── 14_ 
 
 ```
