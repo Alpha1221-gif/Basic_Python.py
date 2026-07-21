@@ -78,3 +78,10 @@ match day:
 1. **No indentation errors:** Every `case` must line up perfectly under the `match` word.
 2. **First match wins:** Python looks from top to bottom. It runs the *first* matching case it finds and skips the rest.
 3. **The `_` is your safety net:** Always include the `case _:` at the bottom so your code does not crash if an unexpected value comes up.
+
+🚀 **Happy Coding!** Feel free to clone this repository and practice these methods.
+
+
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
