@@ -1,4 +1,4 @@
-## 🐍 If...Else: Ultimate Beginner's Guide 🔀🛣️
+# 🐍 If...Else: Ultimate Beginner's Guide 🔀🛣️
 
 Welcome to the beginner's guide to Python conditional statements! Decision-making structures require that the programmer specifies one or more conditions to be evaluated or tested by the program.
 
