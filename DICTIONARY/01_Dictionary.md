@@ -1,4 +1,4 @@
-# <img src="https://githubusercontent.com" alt="python" width="40" height="40"/> Python Dictionaries: Ultimate Beginner's Guide
+🐍 Python Dictionaries: Ultimate Beginner's Guide
 
 Welcome to the beginner's guide to Python dictionaries! Dictionaries are used to store data values in **key:value** pairs. They are ordered, changeable, and do not allow duplicate keys. They are written with curly brackets `{}`.
 
@@ -149,3 +149,8 @@ print(my_family["child1"]["name"]) # Output: Emil
 ---
 
 🚀 **Happy Coding!** Test these out by creating your own customized key-value pairs.
+
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
