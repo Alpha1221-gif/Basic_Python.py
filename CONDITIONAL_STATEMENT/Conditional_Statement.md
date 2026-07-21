@@ -1,4 +1,4 @@
-# <img src="https://githubusercontent.com" alt="python" width="40" height="40"/> Python If...Else: Ultimate Beginner's Guide 🔀🛣️
+# <img src="https://githubusercontent.com" alt="python" width="40" height="40"/> 🐍 If...Else: Ultimate Beginner's Guide 🔀🛣️
 
 Welcome to the beginner's guide to Python conditional statements! Decision-making structures require that the programmer specifies one or more conditions to be evaluated or tested by the program.
 
@@ -116,3 +116,7 @@ if b > a:
 ---
 
 🚀 **Happy Coding!** Try modifying the values of `a` and `b` to see how different blocks run.
+
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
