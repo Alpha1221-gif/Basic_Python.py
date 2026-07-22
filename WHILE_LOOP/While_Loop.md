@@ -91,7 +91,7 @@ while number < 5:
 2. **Don't forget to update:** Always change your variable inside the loop to avoid infinite loops.
 3. **Indentation matters:** All code inside the loop must be pushed to the right by 4 spaces.
 
-##🚀 **Happy Coding!** Feel free to clone this repository and practice these methods.
+🚀 **Happy Coding!** Feel free to clone this repository and practice these methods.
 
 
 ## 📝 License
