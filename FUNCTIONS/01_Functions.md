@@ -140,7 +140,7 @@ introduce_user(name="Alice", age=25, city="New York")
 def my_function(regular_argument, *args, **kwargs):
     pass
 ```
-
+---
 ## 🧩 4. Python Scope
 Scope determines where a variable can be seen or accessed. 
 * **Local Scope:** Variables created inside a function belong only to that function.
