@@ -4,7 +4,7 @@ A beginner-friendly guide to understanding functions and advanced function conce
 
 ---
 
-## 💻 1. Python Functions
+# 💻 1. Python Functions
 A function is a reusable block of code that only runs when it is called. You can pass data (parameters) into a function, and it can return data as a result.
 
 ### Syntax
@@ -25,7 +25,7 @@ greet()
 
 ---
 
-## 📜 2. Python Arguments
+# 📜 2. Python Arguments
 Arguments are information passed into functions. You specify them inside the parentheses when defining the function.
 
 ### Syntax
@@ -46,7 +46,7 @@ greet_user("Alice")
 
 ---
 
-## ⚙️ 3. Python *args and **kwargs
+# ⚙️ 3. Python *args and **kwargs
 When you don't know how many arguments will be passed into your function, you use `*args` for positional arguments and `**kwargs` for keyword arguments.
 
 ### Syntax
@@ -71,7 +71,7 @@ user_profile(name="Bob", age=25, city="New York")
 ```
 
 ---
-# 🐍 Python Cheat Sheet: `*args` vs `**kwargs`
+## 🐍 Python Cheat Sheet: `*args` vs `**kwargs`
 
 Both `*args` and `**kwargs` allow a function to accept a dynamic number of arguments. This means you do not need to know how many inputs a user will pass when you first write the function.
 
@@ -141,7 +141,7 @@ def my_function(regular_argument, *args, **kwargs):
     pass
 ```
 ---
-## 🧩 4. Python Scope
+# 🧩 4. Python Scope
 Scope determines where a variable can be seen or accessed. 
 * **Local Scope:** Variables created inside a function belong only to that function.
 * **Global Scope:** Variables created in the main body of the Python code can be accessed anywhere.
@@ -163,7 +163,7 @@ my_function()
 
 ---
 
-## 🎀 5. Python Decorators
+# 🎀 5. Python Decorators
 A decorator allows you to modify or extend the behavior of a function without permanently changing its code. It wraps another function.
 
 ### Syntax
@@ -191,7 +191,7 @@ say_hello()
 
 ---
 
-## ⚡ 6. Python Lambda
+# ⚡ 6. Python Lambda
 A lambda function is a small, anonymous (nameless) function. It can take any number of arguments but can only have a single expression.
 
 ### Syntax
@@ -209,7 +209,7 @@ print(add_ten(5)) # Outputs 15
 
 ---
 
-## 🔁 7. Python Recursion
+# 🔁 7. Python Recursion
 Recursion happens when a function calls itself. It is useful for breaking down complex problems into smaller, identical problems. It always needs a **base case** to stop looping forever.
 
 ### Example
@@ -227,7 +227,7 @@ print(factorial(5)) # Outputs 120 (5 * 4 * 3 * 2 * 1)
 
 ---
 
-## 🔋 8. Python Generators
+# 🔋 8. Python Generators
 Generators are functions that return an iterator tool using the `yield` keyword instead of `return`. They produce items one at a time only when requested, which saves a lot of computer memory.
 
 ### Syntax
