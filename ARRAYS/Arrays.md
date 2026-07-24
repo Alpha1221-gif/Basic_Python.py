@@ -149,6 +149,7 @@ scores.sort()
 print(scores) # Outputs: [10, 20, 30, 40]
 ---
 ```
+```
 🚀
 **Happy Coding!** Practice these concepts by writing your own Python code.
 
