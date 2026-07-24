@@ -145,11 +145,11 @@ Sorts the items in your list in ascending order (alphabetically or numerically) 
 scores = [40, 10, 30, 20]
 scores.sort()
 ```
-
+```
 print(scores) # Outputs: [10, 20, 30, 40]
----
+
 ```
-```
+
 🚀
 **Happy Coding!** Practice these concepts by writing your own Python code.
 
