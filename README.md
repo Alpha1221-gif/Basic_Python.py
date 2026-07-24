@@ -32,12 +32,20 @@ The files are organized progressively to take you from total beginner to writing
 ├── 06_ STRINGS                    # Manipulate, format, and slice text data efficiently.
 ├── 07_  BOOLEAN                      # Work with logical True and False values to evaluate conditions.
 ├── 08_  OPERATORS                       # Perform arithmetic, assignment, and comparison operations on data.
-├── 09_ LIST                          #  Store ordered, mutable collections of items in a single variable.
-├── 10_ TUPLES                     #Create ordered, immutable sequences to protect data from changes.
+├── 09_  LIST                          #  Store ordered, mutable collections of items in a single variable.
+├── 10_  TUPLES                     #Create ordered, immutable sequences to protect data from changes.
 ├── 11_  SETS                   # Manage unordered collections of unique items with no duplicate values.
-├── 12_  DICTIONARY         #Manage ordered collections of unique key-value pairs.
+├── 12_  DICTIONARY         # Manage ordered collections of unique key-value pairs.
 ├── 13_  CONDITIONAL     # Control program flow by executing specific code blocks based on boolean conditions.
-└── 14_ 
+├── 14_  MATCH        # The match statement compares values against patterns.
+├── 15_  WHILE_LOOP       # It executes blocks while statements remain true.
+├── 16_  FOR_LOOP            # It repeats code blocks for each item.
+├── 17_  FUNCTIONS              # Functions are reusable blocks of code that execute specific tasks.
+├── 18_  ARRAYS                    # Arrays store multiple values of the same type in a single structured variable.
+├── 19_  ITERATORS                    # An iterator is an object that traverses collections and returns one element at a time.
+├── 20_ 
+├── 21_
+└── 22_ 
 
 ```
 
