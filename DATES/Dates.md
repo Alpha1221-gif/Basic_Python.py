@@ -59,7 +59,7 @@ custom_date = datetime.datetime(2028, 12, 25)
 print(custom_date)  # Output: 2028-12-25 00:00:00
 ```
 
-**##**🚀
+🚀
 **Happy Coding!** Practice these concepts by writing your own Python code.
 
 ## 📝 License
