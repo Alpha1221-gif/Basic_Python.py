@@ -1,4 +1,4 @@
-# 📝 Learning JSON as a Beginner
+# 🐍 Learning JSON as a Beginner
 
 JSON stands for **J**ava**S**cript **O**bject **N**otation. It is a simple text format used to store and share data. Think of it like a digital shopping list or a profile card that computers can easily read.
 
@@ -47,3 +47,10 @@ Here is a JSON profile of a student:
 * `"age"` has a number value, so it does not need quotes.
 * `"isStudent"` uses a true/false value.
 * `"hobbies"` uses square brackets because it is a list of multiple things.
+
+🚀 **Happy Coding!** Feel free to clone this repository and practice these methods.
+
+
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
