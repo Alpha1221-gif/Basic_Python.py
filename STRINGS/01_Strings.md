@@ -190,6 +190,7 @@ for index in range(len(word)):
 Index 0 has letter: A
 Index 1 has letter: I
 ```
+---
 🚀 
 **Happy Coding!** Practice these concepts by writing your own Strings variables.
 
