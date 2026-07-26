@@ -72,6 +72,7 @@ max_login_attempts = 5  # Stop users from guessing passwords after 5 tries
 ```
 ```
 ````
+---
 🚀
 **Happy Coding!** Practice these concepts by writing your own Comments.
 
