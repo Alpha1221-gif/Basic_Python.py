@@ -65,4 +65,12 @@ except ValueError:
 * 🧩 Use `int(input())` for whole numbers.
 * 💸 Use `float(input())` for decimal numbers.
 
+---
+ 🚀
+  **Happy Coding!** Practice these concepts by writing your own Python code.
+  
+  ## 📝 License
+  
+  This project is open-source and available under the [MIT License](LICENSE).
+
 
