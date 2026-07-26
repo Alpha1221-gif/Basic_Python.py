@@ -250,7 +250,7 @@ print(next(counter)) # Outputs 1
 print(next(counter)) # Outputs 2
 print(next(counter)) # Outputs 3
 ```
-
+---
 🚀
 **Happy Coding!** Practice these concepts by writing your own Functions.
 ## 📝 License
