@@ -49,7 +49,7 @@ for i in range(5):
 * **🔍 Indentation:** The code inside the loop *must* be spaced to the right (usually 4 spaces).
 * **Do not forget the `:`** Always put a colon at the end of the `for` statement line.
 * **📛 Variable Name:** You can name the temporary variable (`fruit` or `i`) whatever you want.
-
+---
 🚀 **Happy Coding!** Feel free to clone this repository and practice these methods.
 
 
