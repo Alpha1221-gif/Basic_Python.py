@@ -24,7 +24,7 @@ The files are organized progressively to take you from total beginner to writing
 
 ```text
 ├── README.md
-├── 01_ SYNTAX    # Master the foundational rules and structure of writing Python code.
+├── 01_ [SYNTAX ](SYNTAX)  # Master the foundational rules and structure of writing Python code.
 ├── 02_ OUTPUT        # Learn how to display data and format text on the screen.
 ├── 03_ COMMENTS         #  Document your code effectively using single-line and multi-line notes.
 ├── 04_ VARIABLES           #  Understand how to create, assign, and manage data containers in memory. 
