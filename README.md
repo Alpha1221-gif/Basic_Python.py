@@ -43,9 +43,15 @@ The files are organized progressively to take you from total beginner to writing
 ├── 17_  FUNCTIONS              # Functions are reusable blocks of code that execute specific tasks.
 ├── 18_  ARRAYS                    # Arrays store multiple values of the same type in a single structured variable.
 ├── 19_  ITERATORS                    # An iterator is an object that traverses collections and returns one element at a time.
-├── 20_ 
-├── 21_
-└── 22_ 
+├── 20_  DATES                           # Python uses the built-in datetime module to manipulate calendar dates efficiently
+├── 21_  MATH                               # Python handles basic and advanced calculations using its built-in math module.
+├── 22_  JSON                             # Python uses the built-in json module to parse and serialize data easily.
+├── 23_  REG_EX                        # Python uses the built-in re module to match complex string patterns.
+├── 24_  TRY_EXCEPT                  # Python uses try-except blocks to handle errors and prevent unexpected program crashes.
+├── 25_  STRING_FORMATTING         # Python uses f-strings to format variables inside text strings easily and cleanly.
+├── 26_  NONE                    # Python uses the None keyword to represent the absence of a value.
+└── 27_  USER_INPUT            # Python uses the input function to capture text entered by the user.
+
 
 ```
 
