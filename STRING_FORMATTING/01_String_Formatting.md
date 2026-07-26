@@ -59,6 +59,7 @@ print(f"Your ID is code_{rank:03}")
 * ⚠️ **Quote Matching:** If your f-string uses double quotes `""`, use single quotes `''` inside the curly brackets (or vice versa) to avoid errors.
 * ⚡ **Speed:** f-strings are the fastest way to format text in Python!
 
+---
 🚀 
 **Happy Coding!** Practice these concepts by writing your own Strings variables.
 
