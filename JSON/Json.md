@@ -47,6 +47,7 @@ Here is a JSON profile of a student:
 * `"age"` has a number value, so it does not need quotes.
 * `"isStudent"` uses a true/false value.
 * `"hobbies"` uses square brackets because it is a list of multiple things.
+---
 
 🚀 **Happy Coding!** Feel free to clone this repository and practice these methods.
 
