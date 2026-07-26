@@ -65,7 +65,7 @@ print(name.lower())
 * 🔒 **Single Identity:** There is only ever *one* `None` object inside Python's memory. Every variable set to `None` points to the exact same place.
 * 🤖 **Placeholder:** Use `None` as a starting placeholder for variables before you get the real data.
 
-
+---
 🚀 
 **Happy Coding!** Practice these concepts by writing your own Strings variables.
 
