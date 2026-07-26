@@ -69,7 +69,7 @@ if x < 0:
 | `IndexError` | Trying to access a list index that does not exist |
 | `KeyError` | Looking for a dictionary key that cannot be found |
 
-
+---
 🚀
 **Happy Coding!** Practice these concepts by writing your own Python code.
 
