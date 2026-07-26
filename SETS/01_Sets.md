@@ -103,7 +103,7 @@ Here is a quick reference table of essential set methods:
 | `difference()` | Returns a set containing the difference between two or more sets |
 | `intersection()` | Returns a set that is the intersection of two other sets |
 | `pop()` | Removes an element from the set |
-
+---
 🚀 
 **Happy Coding!** Practice these concepts by writing your own Sets in python.   
 
