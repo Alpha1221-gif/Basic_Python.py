@@ -69,6 +69,7 @@ print(next(num_iterator)) # Outputs: 10
 # Calling it again throws an error
 # print(next(num_iterator)) # Error: StopIteration
 ```
+---
 🚀
 **Happy Coding!** Practice these concepts by writing your own Python code.
 
