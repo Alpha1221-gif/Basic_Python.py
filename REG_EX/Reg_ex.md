@@ -100,16 +100,17 @@ Let's break down a pattern that matches a simple 3-digit phone prefix like `123-
 * `-` looks for a literal hyphen.
 * `\d\d\d` looks for three more numbers.
 
-🚀
-**Happy Coding!** Practice these concepts by writing your own Python code.
-
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 
 ---
 
 ## 🛠️ Great Tools to Practice
 * [Regex101](https://regex101.com) - Visualizes and explains your regex in real-time.
 * [Regexr](https://regexr.com) - Great cheat sheets and interactive testing.
+
+
+🚀
+**Happy Coding!** Practice these concepts by writing your own Python code.
+
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
