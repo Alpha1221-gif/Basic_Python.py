@@ -123,7 +123,7 @@ A quick guide to the popular programming language created by Guido van Rossum an
 ### 📝 Good to Know
 * **Version:** This repository focuses on **Python 3**.
 * **Editors:** While simple text editors work, using an IDE like Thonny, PyCharm, or Eclipse is highly recommended for managing larger projects.
-  
+----
 🚀
 **Happy Coding!** Practice these concepts by writing your own Python code.
 
